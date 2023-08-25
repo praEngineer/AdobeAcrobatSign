@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="052660d8db07b740257e73278c961963" sys_domain="global" table="x_adosy_as_participant" version="3" view="x_adosy_as_admin_view">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-08-17 19:51:56</sys_created_on>
+            <sys_id>c59bce901bfc3550baac766e034bcb4f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-08-17 19:51:56</sys_updated_on>
+            <text>Details</text>
+            <type display_value="Section Separator">443e806c0fd30000b12e6903cfe01281</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_adosy_as_Adobe_Sign_Logo.xml</element>
+            <position>0</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-08-17 19:51:56</sys_created_on>
+            <sys_id>859b86d01bfc3550baac766e034bcbe2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Adobe Sign Logo">f199b7f21b5500500cbb1fc58d4bcb52</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_adosy_as_participant" sys_domain="global" view="a32561fcdb9848100a669cb6db9619cf">052660d8db07b740257e73278c961963</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-08-17 19:51:56</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>agreement.name</element>
+            <position>1</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-08-17 19:51:56</sys_created_on>
+            <sys_id>0d9b86d01bfc3550baac766e034bcbe2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_adosy_as_participant" sys_domain="global" view="a32561fcdb9848100a669cb6db9619cf">052660d8db07b740257e73278c961963</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-08-17 19:51:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested</element>
+            <position>2</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-08-17 19:51:56</sys_created_on>
+            <sys_id>019b86d01bfc3550baac766e034bcbe3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_adosy_as_participant" sys_domain="global" view="a32561fcdb9848100a669cb6db9619cf">052660d8db07b740257e73278c961963</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-08-17 19:51:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>agreement.requested_by</element>
+            <position>3</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-08-17 19:51:56</sys_created_on>
+            <sys_id>059b86d01bfc3550baac766e034bcbe3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_adosy_as_participant" sys_domain="global" view="a32561fcdb9848100a669cb6db9619cf">052660d8db07b740257e73278c961963</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-08-17 19:51:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>agreement.signers</element>
+            <position>4</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-08-17 19:51:56</sys_created_on>
+            <sys_id>099b86d01bfc3550baac766e034bcbe3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_adosy_as_participant" sys_domain="global" view="a32561fcdb9848100a669cb6db9619cf">052660d8db07b740257e73278c961963</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-08-17 19:51:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>c59bce901bfc3550baac766e034bcb4f</element>
+            <position>5</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-08-17 19:51:56</sys_created_on>
+            <sys_id>0d9b86d01bfc3550baac766e034bcbe3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_adosy_as_participant" sys_domain="global" view="a32561fcdb9848100a669cb6db9619cf">052660d8db07b740257e73278c961963</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-08-17 19:51:56</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>6</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-08-17 19:51:56</sys_created_on>
+            <sys_id>019b86d01bfc3550baac766e034bcbe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_adosy_as_participant" sys_domain="global" view="a32561fcdb9848100a669cb6db9619cf">052660d8db07b740257e73278c961963</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-08-17 19:51:56</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>agreement</element>
+            <position>7</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-08-17 19:51:56</sys_created_on>
+            <sys_id>059b86d01bfc3550baac766e034bcbe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_adosy_as_participant" sys_domain="global" view="a32561fcdb9848100a669cb6db9619cf">052660d8db07b740257e73278c961963</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-08-17 19:51:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>display_name</element>
+            <position>8</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-08-17 19:51:56</sys_created_on>
+            <sys_id>099b86d01bfc3550baac766e034bcbe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_adosy_as_participant" sys_domain="global" view="a32561fcdb9848100a669cb6db9619cf">052660d8db07b740257e73278c961963</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-08-17 19:51:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>role</element>
+            <position>9</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-08-17 19:51:56</sys_created_on>
+            <sys_id>0d9b86d01bfc3550baac766e034bcbe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_adosy_as_participant" sys_domain="global" view="a32561fcdb9848100a669cb6db9619cf">052660d8db07b740257e73278c961963</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-08-17 19:51:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>electronic_seal</element>
+            <position>10</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-08-17 19:51:56</sys_created_on>
+            <sys_id>019b86d01bfc3550baac766e034bcbe5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_adosy_as_participant" sys_domain="global" view="a32561fcdb9848100a669cb6db9619cf">052660d8db07b740257e73278c961963</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-08-17 19:51:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user</element>
+            <position>11</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-08-17 19:51:56</sys_created_on>
+            <sys_id>059b86d01bfc3550baac766e034bcbe5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_adosy_as_participant" sys_domain="global" view="a32561fcdb9848100a669cb6db9619cf">052660d8db07b740257e73278c961963</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-08-17 19:51:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>12</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-08-17 19:51:56</sys_created_on>
+            <sys_id>099b86d01bfc3550baac766e034bcbe5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_adosy_as_participant" sys_domain="global" view="a32561fcdb9848100a669cb6db9619cf">052660d8db07b740257e73278c961963</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-08-17 19:51:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>signed_by_email</element>
+            <position>13</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-08-17 19:51:56</sys_created_on>
+            <sys_id>0d9b86d01bfc3550baac766e034bcbe5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_adosy_as_participant" sys_domain="global" view="a32561fcdb9848100a669cb6db9619cf">052660d8db07b740257e73278c961963</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-08-17 19:51:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>14</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-08-17 19:51:56</sys_created_on>
+            <sys_id>019b86d01bfc3550baac766e034bcbe6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_adosy_as_participant" sys_domain="global" view="a32561fcdb9848100a669cb6db9619cf">052660d8db07b740257e73278c961963</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-08-17 19:51:56</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>15</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-08-17 19:51:56</sys_created_on>
+            <sys_id>059b86d01bfc3550baac766e034bcbe6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_adosy_as_participant" sys_domain="global" view="a32561fcdb9848100a669cb6db9619cf">052660d8db07b740257e73278c961963</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-08-17 19:51:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>completed</element>
+            <position>16</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-08-17 19:51:56</sys_created_on>
+            <sys_id>099b86d01bfc3550baac766e034bcbe6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_adosy_as_participant" sys_domain="global" view="a32561fcdb9848100a669cb6db9619cf">052660d8db07b740257e73278c961963</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-08-17 19:51:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>order</element>
+            <position>17</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-08-17 19:51:56</sys_created_on>
+            <sys_id>0d9b86d01bfc3550baac766e034bcbe6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_adosy_as_participant" sys_domain="global" view="a32561fcdb9848100a669cb6db9619cf">052660d8db07b740257e73278c961963</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-08-17 19:51:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>18</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-08-17 19:51:56</sys_created_on>
+            <sys_id>019b86d01bfc3550baac766e034bcbe7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_adosy_as_participant" sys_domain="global" view="a32561fcdb9848100a669cb6db9619cf">052660d8db07b740257e73278c961963</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-08-17 19:51:56</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>signing_url</element>
+            <position>19</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-08-17 19:51:56</sys_created_on>
+            <sys_id>059b86d01bfc3550baac766e034bcbe7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_adosy_as_participant" sys_domain="global" view="a32561fcdb9848100a669cb6db9619cf">052660d8db07b740257e73278c961963</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-08-17 19:51:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_adosy_as_participant</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>hnolan</sys_created_by>
+            <sys_created_on>2019-07-30 15:20:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>052660d8db07b740257e73278c961963</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>x_adosy_as_participant</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Adobe Acrobat Sign" source="x_adosy_as">247c0629db7a3f000a669cb6db961969</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Adobe Acrobat Sign">247c0629db7a3f000a669cb6db961969</sys_scope>
+            <sys_update_name>sys_ui_section_052660d8db07b740257e73278c961963</sys_update_name>
+            <sys_updated_by>james@thewhitespace.io</sys_updated_by>
+            <sys_updated_on>2019-11-28 16:15:33</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Adobe admin" name="x_adosy_as_admin_view">a32561fcdb9848100a669cb6db9619cf</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Adobe Acrobat Sign">247c0629db7a3f000a669cb6db961969</claim_owner_scope>
+        <claim_timestamp>18a2db794e80000001</claim_timestamp>
+        <metadata_update_name>sys_ui_section_052660d8db07b740257e73278c961963</metadata_update_name>
+        <previous_claim_app_version>2.2.17</previous_claim_app_version>
+        <previous_claim_name>Adobe Acrobat Sign</previous_claim_name>
+        <previous_claim_scope>247c0629db7a3f000a669cb6db961969</previous_claim_scope>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-08-25 17:22:00</sys_created_on>
+        <sys_id>3af5fa361bfc3190baac766e034bcb97</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:22:00</sys_updated_on>
+    </sys_claim>
+</record_update>

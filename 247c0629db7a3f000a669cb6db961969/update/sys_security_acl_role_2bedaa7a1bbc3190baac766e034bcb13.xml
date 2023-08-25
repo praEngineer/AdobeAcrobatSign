@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-08-25 16:46:50</sys_created_on>
+        <sys_id>2bedaa7a1bbc3190baac766e034bcb13</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_adosy_as_participant.x_adosy_as.adobe_sign_sender</sys_name>
+        <sys_package display_value="Adobe Acrobat Sign" source="x_adosy_as">247c0629db7a3f000a669cb6db961969</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Adobe Acrobat Sign">247c0629db7a3f000a669cb6db961969</sys_scope>
+        <sys_security_acl display_value="x_adosy_as_participant">a7ed627a1bbc3190baac766e034bcb1b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2bedaa7a1bbc3190baac766e034bcb13</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-08-25 16:46:50</sys_updated_on>
+        <sys_user_role display_value="x_adosy_as.adobe_sign_sender" name="x_adosy_as.adobe_sign_sender">aade8a2ddb7a3f000a669cb6db961965</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Adobe Acrobat Sign">247c0629db7a3f000a669cb6db961969</claim_owner_scope>
+        <claim_timestamp>18a2db794fc0000001</claim_timestamp>
+        <metadata_update_name>sys_security_acl_role_2bedaa7a1bbc3190baac766e034bcb13</metadata_update_name>
+        <previous_claim_app_version>2.2.17</previous_claim_app_version>
+        <previous_claim_name>Adobe Acrobat Sign</previous_claim_name>
+        <previous_claim_scope>247c0629db7a3f000a669cb6db961969</previous_claim_scope>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-08-25 17:22:00</sys_created_on>
+        <sys_id>bef5fa361bfc3190baac766e034bcb98</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:22:00</sys_updated_on>
+    </sys_claim>
+</record_update>

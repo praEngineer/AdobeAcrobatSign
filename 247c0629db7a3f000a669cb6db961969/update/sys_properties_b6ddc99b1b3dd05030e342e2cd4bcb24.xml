@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>&lt;strong&gt;Hostname&lt;/strong&gt;&lt;br&gt;&#13;
+If you have a custom instance URL, specify the fully qualified host to be used in the Redirect URI for OAuth and API callbacks (e.g., webhooks).&lt;br&gt;&#13;
+By default, this value is empty and the host is the value held by the glide.servlet.uri system property.&lt;br/&gt;&#13;
+Note that this applies to the ServiceNow instance redirect only. If you want to redirect signers post signature to a different host, provide that host in the Signer Redirect URI (post_sign_uri) property.</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_adosy_as.redirect_host</name>
+        <read_roles>x_adosy_as.adobe_sign_admin</read_roles>
+        <suffix>redirect_host</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>hnolan</sys_created_by>
+        <sys_created_on>2020-07-09 14:59:54</sys_created_on>
+        <sys_id>b6ddc99b1b3dd05030e342e2cd4bcb24</sys_id>
+        <sys_mod_count>17</sys_mod_count>
+        <sys_name>x_adosy_as.redirect_host</sys_name>
+        <sys_package display_value="Adobe Acrobat Sign" source="x_adosy_as">247c0629db7a3f000a669cb6db961969</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Adobe Acrobat Sign">247c0629db7a3f000a669cb6db961969</sys_scope>
+        <sys_update_name>sys_properties_b6ddc99b1b3dd05030e342e2cd4bcb24</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-06-13 18:13:42</sys_updated_on>
+        <type>string</type>
+        <value>https://nycdsdev1.service-now.com/</value>
+        <write_roles>x_adosy_as.adobe_sign_admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=b6ddc99b1b3dd05030e342e2cd4bcb24"/>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Adobe Acrobat Sign">247c0629db7a3f000a669cb6db961969</claim_owner_scope>
+        <claim_timestamp>18a2db795610000001</claim_timestamp>
+        <metadata_update_name>sys_properties_b6ddc99b1b3dd05030e342e2cd4bcb24</metadata_update_name>
+        <previous_claim_app_version>2.2.17</previous_claim_app_version>
+        <previous_claim_name>Adobe Acrobat Sign</previous_claim_name>
+        <previous_claim_scope>247c0629db7a3f000a669cb6db961969</previous_claim_scope>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-08-25 17:22:00</sys_created_on>
+        <sys_id>b2f5fa361bfc3190baac766e034bcba1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:22:00</sys_updated_on>
+    </sys_claim>
+</record_update>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>&lt;strong&gt;Compose: Post Submit Link Text&lt;/strong&gt;&lt;br&gt;&#13;
+The text value of a link to show to the user when the agreement has been submitted. Default value is "View agreement {agreement_number}".&#13;
+</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_adosy_as.compose.post_submit_link_text</name>
+        <read_roles>x_adosy_as.adobe_sign_admin</read_roles>
+        <suffix>compose.post_submit_link_text</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>jneale</sys_created_by>
+        <sys_created_on>2023-02-13 17:28:42</sys_created_on>
+        <sys_id>17acb07cdb896d10c39151fcd3961935</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_adosy_as.compose.post_submit_link_text</sys_name>
+        <sys_package display_value="Adobe Acrobat Sign" source="x_adosy_as">247c0629db7a3f000a669cb6db961969</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Adobe Acrobat Sign">247c0629db7a3f000a669cb6db961969</sys_scope>
+        <sys_update_name>sys_properties_17acb07cdb896d10c39151fcd3961935</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-07-14 19:30:03</sys_updated_on>
+        <type>string</type>
+        <value>View Adobe-Sign agreement {agreement_number}</value>
+        <write_roles>x_adosy_as.adobe_sign_admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=17acb07cdb896d10c39151fcd3961935"/>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Adobe Acrobat Sign">247c0629db7a3f000a669cb6db961969</claim_owner_scope>
+        <claim_timestamp>18a2db794ac0000001</claim_timestamp>
+        <metadata_update_name>sys_properties_17acb07cdb896d10c39151fcd3961935</metadata_update_name>
+        <previous_claim_app_version>2.2.17</previous_claim_app_version>
+        <previous_claim_name>Adobe Acrobat Sign</previous_claim_name>
+        <previous_claim_scope>247c0629db7a3f000a669cb6db961969</previous_claim_scope>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-08-25 17:22:00</sys_created_on>
+        <sys_id>7ef5fa361bfc3190baac766e034bcb78</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:22:00</sys_updated_on>
+    </sys_claim>
+</record_update>

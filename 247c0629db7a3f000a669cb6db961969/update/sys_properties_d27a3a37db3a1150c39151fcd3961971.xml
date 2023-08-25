@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>&lt;strong&gt;Use Adobe Acrobat Sign Government Cloud&lt;/strong&gt;&lt;br&gt;&#13;
+Adobe Government Cloud customers must enable this property to have Acrobat Sign for ServiceNow use Acrobat Sign Government Cloud services. Default value is false.</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_adosy_as.fedramp</name>
+        <read_roles>x_adosy_as.adobe_sign_admin</read_roles>
+        <suffix>fedramp</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>tim@sharelogic.com</sys_created_by>
+        <sys_created_on>2022-11-03 14:00:15</sys_created_on>
+        <sys_id>d27a3a37db3a1150c39151fcd3961971</sys_id>
+        <sys_mod_count>58</sys_mod_count>
+        <sys_name>x_adosy_as.fedramp</sys_name>
+        <sys_package display_value="Adobe Acrobat Sign" source="x_adosy_as">247c0629db7a3f000a669cb6db961969</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Adobe Acrobat Sign">247c0629db7a3f000a669cb6db961969</sys_scope>
+        <sys_update_name>sys_properties_d27a3a37db3a1150c39151fcd3961971</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-06-28 16:22:01</sys_updated_on>
+        <type>boolean</type>
+        <value>false</value>
+        <write_roles>x_adosy_as.adobe_sign_admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=d27a3a37db3a1150c39151fcd3961971"/>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Adobe Acrobat Sign">247c0629db7a3f000a669cb6db961969</claim_owner_scope>
+        <claim_timestamp>18a2db7951d0000001</claim_timestamp>
+        <metadata_update_name>sys_properties_d27a3a37db3a1150c39151fcd3961971</metadata_update_name>
+        <previous_claim_app_version>2.2.17</previous_claim_app_version>
+        <previous_claim_name>Adobe Acrobat Sign</previous_claim_name>
+        <previous_claim_scope>247c0629db7a3f000a669cb6db961969</previous_claim_scope>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-08-25 17:22:00</sys_created_on>
+        <sys_id>baf5fa361bfc3190baac766e034bcb9b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:22:00</sys_updated_on>
+    </sys_claim>
+</record_update>

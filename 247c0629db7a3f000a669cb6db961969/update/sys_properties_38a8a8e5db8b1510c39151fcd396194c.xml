@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices>info,debug</choices>
+        <description>&lt;strong&gt;Application logging&lt;/strong&gt;&lt;br&gt;&#13;
+Control system logging. Default value is "info".</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_adosy_as.logging.verbosity</name>
+        <read_roles>x_adosy_as.adobe_sign_admin</read_roles>
+        <suffix>logging.verbosity</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>tim@sharelogic.com</sys_created_by>
+        <sys_created_on>2022-11-08 13:51:56</sys_created_on>
+        <sys_id>38a8a8e5db8b1510c39151fcd396194c</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_name>x_adosy_as.logging.verbosity</sys_name>
+        <sys_package display_value="Adobe Acrobat Sign" source="x_adosy_as">247c0629db7a3f000a669cb6db961969</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Adobe Acrobat Sign">247c0629db7a3f000a669cb6db961969</sys_scope>
+        <sys_update_name>sys_properties_38a8a8e5db8b1510c39151fcd396194c</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-06-13 18:32:18</sys_updated_on>
+        <type>choicelist</type>
+        <value>debug</value>
+        <write_roles>x_adosy_as.adobe_sign_admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=38a8a8e5db8b1510c39151fcd396194c"/>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Adobe Acrobat Sign">247c0629db7a3f000a669cb6db961969</claim_owner_scope>
+        <claim_timestamp>18a2db795510000001</claim_timestamp>
+        <metadata_update_name>sys_properties_38a8a8e5db8b1510c39151fcd396194c</metadata_update_name>
+        <previous_claim_app_version>2.2.17</previous_claim_app_version>
+        <previous_claim_name>Adobe Acrobat Sign</previous_claim_name>
+        <previous_claim_scope>247c0629db7a3f000a669cb6db961969</previous_claim_scope>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-08-25 17:22:00</sys_created_on>
+        <sys_id>3ef5fa361bfc3190baac766e034bcb9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:22:00</sys_updated_on>
+    </sys_claim>
+</record_update>
